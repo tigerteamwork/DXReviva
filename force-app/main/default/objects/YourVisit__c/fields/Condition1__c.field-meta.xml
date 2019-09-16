@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Condition1__c</fullName>
+    <externalId>false</externalId>
+    <label>Condition1</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>Symptom1__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetName>Conditions</valueSetName>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>splinter</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <valueName>abscess</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>vomiting</controllingFieldValue>
+            <controllingFieldValue>eye problem</controllingFieldValue>
+            <controllingFieldValue>wheezing</controllingFieldValue>
+            <controllingFieldValue>immunization</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>medication issues</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <valueName>allergic reaction</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <valueName>bee sting</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>contact dermatitis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>eczema</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>nail issue</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>ingrown nail</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <valueName>Lyme</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>runny nose</controllingFieldValue>
+            <controllingFieldValue>seasonal allergies</controllingFieldValue>
+            <controllingFieldValue>sinus problem</controllingFieldValue>
+            <controllingFieldValue>sleeping problem</controllingFieldValue>
+            <controllingFieldValue>sore throat</controllingFieldValue>
+            <controllingFieldValue>trouble breathing</controllingFieldValue>
+            <controllingFieldValue>urine problem</controllingFieldValue>
+            <controllingFieldValue>vomiting</controllingFieldValue>
+            <controllingFieldValue>weight loss</controllingFieldValue>
+            <controllingFieldValue>eye problem</controllingFieldValue>
+            <controllingFieldValue>wellness checkup</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>wheezing</controllingFieldValue>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>nail issue</controllingFieldValue>
+            <controllingFieldValue>headache</controllingFieldValue>
+            <controllingFieldValue>splinter</controllingFieldValue>
+            <controllingFieldValue>high blood pressure</controllingFieldValue>
+            <controllingFieldValue>immunization</controllingFieldValue>
+            <controllingFieldValue>indigestion</controllingFieldValue>
+            <controllingFieldValue>travel related</controllingFieldValue>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>joint pain</controllingFieldValue>
+            <controllingFieldValue>leg swelling</controllingFieldValue>
+            <controllingFieldValue>medication issues</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <controllingFieldValue>anxiety</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <controllingFieldValue>cough</controllingFieldValue>
+            <controllingFieldValue>diabetes issues</controllingFieldValue>
+            <controllingFieldValue>diarrhea</controllingFieldValue>
+            <controllingFieldValue>dizzy</controllingFieldValue>
+            <controllingFieldValue>ear problem</controllingFieldValue>
+            <controllingFieldValue>mole</controllingFieldValue>
+            <controllingFieldValue>pregnancy related</controllingFieldValue>
+            <valueName>other</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>poison ivy</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>psoriasis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <valueName>puncture wounds</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>ringworm</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <valueName>scars</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>shingles</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>immunization</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>shingles vaccine</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>mole</controllingFieldValue>
+            <valueName>skin cancer</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>splinter</controllingFieldValue>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <valueName>skin infection</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <valueName>spider bite</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <valueName>tick bite</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>travel related</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <controllingFieldValue>pregnancy related</controllingFieldValue>
+            <valueName>zika virus</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>runny nose</controllingFieldValue>
+            <controllingFieldValue>seasonal allergies</controllingFieldValue>
+            <controllingFieldValue>sinus problem</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>cough</controllingFieldValue>
+            <valueName>chronic rhinitis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>runny nose</controllingFieldValue>
+            <controllingFieldValue>seasonal allergies</controllingFieldValue>
+            <controllingFieldValue>sinus problem</controllingFieldValue>
+            <controllingFieldValue>sore throat</controllingFieldValue>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>cough</controllingFieldValue>
+            <valueName>common cold</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>runny nose</controllingFieldValue>
+            <controllingFieldValue>seasonal allergies</controllingFieldValue>
+            <controllingFieldValue>sinus problem</controllingFieldValue>
+            <controllingFieldValue>eye problem</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>cough</controllingFieldValue>
+            <valueName>seasonal allergies</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>runny nose</controllingFieldValue>
+            <controllingFieldValue>seasonal allergies</controllingFieldValue>
+            <controllingFieldValue>sinus problem</controllingFieldValue>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>headache</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>cough</controllingFieldValue>
+            <valueName>sinusitis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>sleeping problem</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>anxiety</controllingFieldValue>
+            <controllingFieldValue>dizzy</controllingFieldValue>
+            <valueName>anxiety</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>sleeping problem</controllingFieldValue>
+            <controllingFieldValue>weight loss</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>anxiety</controllingFieldValue>
+            <valueName>depression</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>sleeping problem</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>anxiety</controllingFieldValue>
+            <valueName>insomnia</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>sleeping problem</controllingFieldValue>
+            <controllingFieldValue>high blood pressure</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>sleep apnea</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>sleeping problem</controllingFieldValue>
+            <controllingFieldValue>weight loss</controllingFieldValue>
+            <controllingFieldValue>wellness checkup</controllingFieldValue>
+            <controllingFieldValue>headache</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>anxiety</controllingFieldValue>
+            <valueName>stress</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>sore throat</controllingFieldValue>
+            <controllingFieldValue>trouble breathing</controllingFieldValue>
+            <controllingFieldValue>vomiting</controllingFieldValue>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>headache</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>cough</controllingFieldValue>
+            <valueName>flu</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>sore throat</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>mononucleosis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>sore throat</controllingFieldValue>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>pharyngitis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>sore throat</controllingFieldValue>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>strep throat</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>trouble breathing</controllingFieldValue>
+            <controllingFieldValue>wheezing</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>cough</controllingFieldValue>
+            <valueName>asthma</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>trouble breathing</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>leg swelling</controllingFieldValue>
+            <valueName>blood clot</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>trouble breathing</controllingFieldValue>
+            <controllingFieldValue>wheezing</controllingFieldValue>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>cough</controllingFieldValue>
+            <valueName>bronchitis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>trouble breathing</controllingFieldValue>
+            <controllingFieldValue>high blood pressure</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>leg swelling</controllingFieldValue>
+            <valueName>CHF</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>trouble breathing</controllingFieldValue>
+            <controllingFieldValue>wheezing</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>COPD</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>trouble breathing</controllingFieldValue>
+            <controllingFieldValue>high blood pressure</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>leg swelling</controllingFieldValue>
+            <controllingFieldValue>diabetes issues</controllingFieldValue>
+            <valueName>heart failure</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>trouble breathing</controllingFieldValue>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>cough</controllingFieldValue>
+            <valueName>pneumonia</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>urine problem</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>blood in urine</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>urine problem</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>BPH</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>urine problem</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>enlarged prostate</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>urine problem</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>incontinence</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>urine problem</controllingFieldValue>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <valueName>kidney infection</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>urine problem</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <valueName>kidney stone</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>urine problem</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>prostate cancer</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>urine problem</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>urinary retention</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>urine problem</controllingFieldValue>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <valueName>urine infection</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>vomiting</controllingFieldValue>
+            <controllingFieldValue>indigestion</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <valueName>acid reflux</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>vomiting</controllingFieldValue>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <valueName>appendicitis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>vomiting</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <controllingFieldValue>diarrhea</controllingFieldValue>
+            <valueName>Crohn&#39;s disease</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>vomiting</controllingFieldValue>
+            <controllingFieldValue>indigestion</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <valueName>esophagitis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>vomiting</controllingFieldValue>
+            <controllingFieldValue>indigestion</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <valueName>gastritis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>vomiting</controllingFieldValue>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>medication issues</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <valueName>gastroenteritis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>vomiting</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>pregnancy related</controllingFieldValue>
+            <valueName>hyperemesis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>vomiting</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <valueName>irritable bowel</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>vomiting</controllingFieldValue>
+            <controllingFieldValue>indigestion</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <valueName>peptic ulcer disease</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>vomiting</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>pregnancy related</controllingFieldValue>
+            <valueName>pregnancy</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>vomiting</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>dizzy</controllingFieldValue>
+            <valueName>vertigo</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>weight loss</controllingFieldValue>
+            <controllingFieldValue>wellness checkup</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>mole</controllingFieldValue>
+            <valueName>cancer screening</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>weight loss</controllingFieldValue>
+            <controllingFieldValue>wellness checkup</controllingFieldValue>
+            <controllingFieldValue>high blood pressure</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>joint pain</controllingFieldValue>
+            <controllingFieldValue>diabetes issues</controllingFieldValue>
+            <valueName>obesity</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>eye problem</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>cataract</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>eye problem</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>conjunctivitis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>eye problem</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>corneal abrasion</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>eye problem</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>eye foreign body</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>eye problem</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>glaucoma</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>eye problem</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>diabetes issues</controllingFieldValue>
+            <valueName>retinopathy</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>eye problem</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>sty</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>wellness checkup</controllingFieldValue>
+            <controllingFieldValue>high blood pressure</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>diabetes issues</controllingFieldValue>
+            <valueName>cholesterol</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>wellness checkup</controllingFieldValue>
+            <controllingFieldValue>high blood pressure</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>diabetes issues</controllingFieldValue>
+            <valueName>heart disease</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>wellness checkup</controllingFieldValue>
+            <controllingFieldValue>headache</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>leg swelling</controllingFieldValue>
+            <controllingFieldValue>diabetes issues</controllingFieldValue>
+            <valueName>high blood pressure</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>wellness checkup</controllingFieldValue>
+            <controllingFieldValue>high blood pressure</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>leg swelling</controllingFieldValue>
+            <controllingFieldValue>diabetes issues</controllingFieldValue>
+            <valueName>kidney disease</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>wellness checkup</controllingFieldValue>
+            <controllingFieldValue>high blood pressure</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>diabetes issues</controllingFieldValue>
+            <valueName>type 2 diabetes</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>wellness checkup</controllingFieldValue>
+            <controllingFieldValue>immunization</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>medication issues</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <valueName>vaccinations</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>breast cancer</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>pregnancy related</controllingFieldValue>
+            <valueName>caesarian section</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>cervical cancer</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <controllingFieldValue>pregnancy related</controllingFieldValue>
+            <valueName>ectopic pregnancy</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <valueName>endometriosis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>fibroids</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>infertility</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>irregular menses</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>menopause</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <valueName>menstrual cramps</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>pregnancy related</controllingFieldValue>
+            <valueName>miscarriage</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <valueName>ovarian cysts</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>wheezing</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>cough</controllingFieldValue>
+            <valueName>chronic bronchitis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>headache</controllingFieldValue>
+            <controllingFieldValue>travel related</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <valueName>dengue fever</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>ear problem</controllingFieldValue>
+            <valueName>ear infection</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>cough</controllingFieldValue>
+            <valueName>influenza</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>travel related</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>malaria</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>travel related</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>typhoid</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>nail issue</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>nail fungus</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>nail issue</controllingFieldValue>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <valueName>nail injury</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>nail issue</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>paronychia</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>headache</controllingFieldValue>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>concussion</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>headache</controllingFieldValue>
+            <controllingFieldValue>travel related</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>encephalitis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>headache</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>meningitis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>headache</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>migraines</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>headache</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>tension headache</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>splinter</controllingFieldValue>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <valueName>splinter</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>splinter</controllingFieldValue>
+            <controllingFieldValue>immunization</controllingFieldValue>
+            <controllingFieldValue>travel related</controllingFieldValue>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <valueName>tetanus vaccine</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>immunization</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>cough</controllingFieldValue>
+            <valueName>flu vaccine</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>immunization</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>HPV vaccine</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>immunization</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>cough</controllingFieldValue>
+            <valueName>pneumonia vaccine</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>immunization</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <valueName>rabies vaccine</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>immunization</controllingFieldValue>
+            <controllingFieldValue>travel related</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <valueName>travel vaccination</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>travel related</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>Ebola</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>travel related</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>hepatitis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>travel related</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <valueName>rabies</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>travel related</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <valueName>tetanus</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>travel related</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>diarrhea</controllingFieldValue>
+            <valueName>traveler&#39;s diarrhea</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>joint pain</controllingFieldValue>
+            <valueName>arthritis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>joint pain</controllingFieldValue>
+            <valueName>back pain</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <valueName>broken bone</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>fracture bone</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <valueName>laceration</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>rotator cuff injury</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>joint pain</controllingFieldValue>
+            <valueName>sciatica</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>joint pain</controllingFieldValue>
+            <valueName>sports injury</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>joint pain</controllingFieldValue>
+            <valueName>sprain</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>joint pain</controllingFieldValue>
+            <valueName>strain</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>joint pain</controllingFieldValue>
+            <valueName>tendonitis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>ACL injury</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>anxiety</controllingFieldValue>
+            <valueName>ADHD</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <valueName>anaphylaxis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>bipolar</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <controllingFieldValue>diarrhea</controllingFieldValue>
+            <valueName>celiac disease</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <valueName>colon cancer</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <controllingFieldValue>diarrhea</controllingFieldValue>
+            <valueName>constipation</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <controllingFieldValue>diarrhea</controllingFieldValue>
+            <valueName>diverticulitis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>leg swelling</controllingFieldValue>
+            <valueName>DVT</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>ear problem</controllingFieldValue>
+            <valueName>ear foreign body</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>pregnancy related</controllingFieldValue>
+            <valueName>eclampsia</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>dizzy</controllingFieldValue>
+            <valueName>fainting</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>false labor</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>frozen shoulder</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <valueName>gall stones</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>joint pain</controllingFieldValue>
+            <valueName>gout</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>hematuria</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>hernia</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>herniated disc</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>hiatal hernia</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>diabetes issues</controllingFieldValue>
+            <valueName>hyperglycemia</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>diabetes issues</controllingFieldValue>
+            <valueName>hypoglycemia</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>cough</controllingFieldValue>
+            <valueName>immunization flu</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>medication issues</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <controllingFieldValue>pregnancy related</controllingFieldValue>
+            <valueName>immunizations</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>pregnancy related</controllingFieldValue>
+            <valueName>labor</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>lung cancer</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>diabetes issues</controllingFieldValue>
+            <valueName>neuropathy</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <valueName>pancreatitis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>anxiety</controllingFieldValue>
+            <valueName>panic attack</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>PE</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>cough</controllingFieldValue>
+            <valueName>post nasal drip</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>snoring</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>swimmer&#39;s ear</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>torticollis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>diabetes issues</controllingFieldValue>
+            <valueName>type 1 diabetes</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <controllingFieldValue>diarrhea</controllingFieldValue>
+            <valueName>ulcerative colitis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>other</controllingFieldValue>
+            <valueName>varicose veins</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

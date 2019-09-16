@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Physician__c</fullName>
+    <defaultValue>&#39;No Preference&#39;</defaultValue>
+    <externalId>false</externalId>
+    <label>Physician</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>Symptom1__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetName>Physicians</valueSetName>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>runny nose</controllingFieldValue>
+            <controllingFieldValue>seasonal allergies</controllingFieldValue>
+            <controllingFieldValue>sinus problem</controllingFieldValue>
+            <controllingFieldValue>sleeping problem</controllingFieldValue>
+            <controllingFieldValue>sore throat</controllingFieldValue>
+            <controllingFieldValue>trouble breathing</controllingFieldValue>
+            <controllingFieldValue>urine problem</controllingFieldValue>
+            <controllingFieldValue>vomiting</controllingFieldValue>
+            <controllingFieldValue>weight loss</controllingFieldValue>
+            <controllingFieldValue>eye problem</controllingFieldValue>
+            <controllingFieldValue>wellness checkup</controllingFieldValue>
+            <controllingFieldValue>wheezing</controllingFieldValue>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>nail issue</controllingFieldValue>
+            <controllingFieldValue>headache</controllingFieldValue>
+            <controllingFieldValue>splinter</controllingFieldValue>
+            <controllingFieldValue>high blood pressure</controllingFieldValue>
+            <controllingFieldValue>immunization</controllingFieldValue>
+            <controllingFieldValue>indigestion</controllingFieldValue>
+            <controllingFieldValue>travel related</controllingFieldValue>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>joint pain</controllingFieldValue>
+            <controllingFieldValue>leg swelling</controllingFieldValue>
+            <controllingFieldValue>medication issues</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <controllingFieldValue>anxiety</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <controllingFieldValue>cough</controllingFieldValue>
+            <controllingFieldValue>diabetes issues</controllingFieldValue>
+            <controllingFieldValue>diarrhea</controllingFieldValue>
+            <controllingFieldValue>dizzy</controllingFieldValue>
+            <controllingFieldValue>ear problem</controllingFieldValue>
+            <controllingFieldValue>mole</controllingFieldValue>
+            <valueName>Kilimanjaro</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>runny nose</controllingFieldValue>
+            <controllingFieldValue>seasonal allergies</controllingFieldValue>
+            <controllingFieldValue>sinus problem</controllingFieldValue>
+            <controllingFieldValue>sleeping problem</controllingFieldValue>
+            <controllingFieldValue>sore throat</controllingFieldValue>
+            <controllingFieldValue>trouble breathing</controllingFieldValue>
+            <controllingFieldValue>urine problem</controllingFieldValue>
+            <controllingFieldValue>vomiting</controllingFieldValue>
+            <controllingFieldValue>weight loss</controllingFieldValue>
+            <controllingFieldValue>eye problem</controllingFieldValue>
+            <controllingFieldValue>wellness checkup</controllingFieldValue>
+            <controllingFieldValue>wheezing</controllingFieldValue>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>nail issue</controllingFieldValue>
+            <controllingFieldValue>headache</controllingFieldValue>
+            <controllingFieldValue>splinter</controllingFieldValue>
+            <controllingFieldValue>high blood pressure</controllingFieldValue>
+            <controllingFieldValue>immunization</controllingFieldValue>
+            <controllingFieldValue>indigestion</controllingFieldValue>
+            <controllingFieldValue>travel related</controllingFieldValue>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>joint pain</controllingFieldValue>
+            <controllingFieldValue>leg swelling</controllingFieldValue>
+            <controllingFieldValue>medication issues</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <controllingFieldValue>anxiety</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <controllingFieldValue>cough</controllingFieldValue>
+            <controllingFieldValue>diabetes issues</controllingFieldValue>
+            <controllingFieldValue>diarrhea</controllingFieldValue>
+            <controllingFieldValue>dizzy</controllingFieldValue>
+            <controllingFieldValue>ear problem</controllingFieldValue>
+            <controllingFieldValue>mole</controllingFieldValue>
+            <valueName>Killbill</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>rash</controllingFieldValue>
+            <controllingFieldValue>runny nose</controllingFieldValue>
+            <controllingFieldValue>seasonal allergies</controllingFieldValue>
+            <controllingFieldValue>sinus problem</controllingFieldValue>
+            <controllingFieldValue>sleeping problem</controllingFieldValue>
+            <controllingFieldValue>sore throat</controllingFieldValue>
+            <controllingFieldValue>trouble breathing</controllingFieldValue>
+            <controllingFieldValue>urine problem</controllingFieldValue>
+            <controllingFieldValue>vomiting</controllingFieldValue>
+            <controllingFieldValue>weight loss</controllingFieldValue>
+            <controllingFieldValue>eye problem</controllingFieldValue>
+            <controllingFieldValue>wellness checkup</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>wheezing</controllingFieldValue>
+            <controllingFieldValue>fever</controllingFieldValue>
+            <controllingFieldValue>nail issue</controllingFieldValue>
+            <controllingFieldValue>headache</controllingFieldValue>
+            <controllingFieldValue>splinter</controllingFieldValue>
+            <controllingFieldValue>high blood pressure</controllingFieldValue>
+            <controllingFieldValue>immunization</controllingFieldValue>
+            <controllingFieldValue>indigestion</controllingFieldValue>
+            <controllingFieldValue>travel related</controllingFieldValue>
+            <controllingFieldValue>injury</controllingFieldValue>
+            <controllingFieldValue>other</controllingFieldValue>
+            <controllingFieldValue>joint pain</controllingFieldValue>
+            <controllingFieldValue>leg swelling</controllingFieldValue>
+            <controllingFieldValue>medication issues</controllingFieldValue>
+            <controllingFieldValue>abdominal pain</controllingFieldValue>
+            <controllingFieldValue>animal bite</controllingFieldValue>
+            <controllingFieldValue>anxiety</controllingFieldValue>
+            <controllingFieldValue>bug bite</controllingFieldValue>
+            <controllingFieldValue>cough</controllingFieldValue>
+            <controllingFieldValue>diabetes issues</controllingFieldValue>
+            <controllingFieldValue>diarrhea</controllingFieldValue>
+            <controllingFieldValue>dizzy</controllingFieldValue>
+            <controllingFieldValue>ear problem</controllingFieldValue>
+            <controllingFieldValue>mole</controllingFieldValue>
+            <controllingFieldValue>pregnancy related</controllingFieldValue>
+            <valueName>No Preference</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>wellness checkup</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>high blood pressure</controllingFieldValue>
+            <controllingFieldValue>immunization</controllingFieldValue>
+            <controllingFieldValue>travel related</controllingFieldValue>
+            <controllingFieldValue>diabetes issues</controllingFieldValue>
+            <controllingFieldValue>pregnancy related</controllingFieldValue>
+            <valueName>Killjoy</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
+            <controllingFieldValue>pregnancy related</controllingFieldValue>
+            <valueName>Kildare</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>
